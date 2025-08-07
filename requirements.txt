@@ -1,0 +1,8 @@
+matplotlib==3.5.1
+numpy==1.21.6
+pyrootutils==1.0.4
+scikit_learn==1.0.2
+seaborn==0.10.1
+torch==1.11.0
+torchmetrics==1.2.0
+tqdm==4.64.0
