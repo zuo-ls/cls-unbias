@@ -1,6 +1,6 @@
 # Cls-unbias: class-unbiased model for medical diagnosis
 
-The official PyTorch implementation of Cls-unbias, "Class Unbiasing for Generalization in Medical Diagnosis".
+The official PyTorch implementation of Cls-unbias, "Class Unbiasing for Generalization in Medical Diagnosis" [link](https://arxiv.org/pdf/2508.06943).
 
 
 ## What is Cls-unbias?
@@ -27,5 +27,13 @@ pip install -r requirements.txt
 
 ## Cite Our Paper
 ```
-
+@misc{zuo2025classunbiasinggeneralizationmedical,
+      title={Class Unbiasing for Generalization in Medical Diagnosis}, 
+      author={Lishi Zuo and Man-Wai Mak and Lu Yi and Youzhi Tu},
+      year={2025},
+      eprint={2508.06943},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2508.06943}, 
+}
 ```
