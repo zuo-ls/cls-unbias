@@ -12,11 +12,11 @@ This experiment gives an example of class-shared and class-specific features, de
 This demo runs the toy experiments that quickly validates the paper's conclusions on a single CPU. The code is adaptable to other datasets.
 
 ## How to run the experiment?
-Simply run:
+Simply run
 ```bash
 python main.py
 ```
-The code will sweep the conf
+will be able to get all results of the toy experiments presented in the paper. 
 
 ## Dependencies
 Install dependencies:
